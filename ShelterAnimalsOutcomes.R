@@ -5,4 +5,4 @@ sample_submission <- read.csv('/home/cris/mrcrstnherediagmez@gmail.com/Kaggle_Co
 
 View(training)
 View(test)
-Vies(sample_submission)
+View(sample_submission)
